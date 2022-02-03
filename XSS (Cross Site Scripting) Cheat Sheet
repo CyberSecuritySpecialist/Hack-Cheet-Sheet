@@ -164,4 +164,3 @@ Method doesn’t require using any variants of “javascript:” or “<SCRIPT�
 
 <BODY ONLOAD=alert('XSS')>
 
-take from
